@@ -1,0 +1,15 @@
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\bin\Debug\MusicPlayer_WCF.exe.config
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\bin\Debug\MusicPlayer_WCF.exe
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\bin\Debug\MusicPlayer_WCF.pdb
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\bin\Debug\Interop.WMPLib.dll
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\bin\Debug\AxInterop.WMPLib.dll
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\Interop.WMPLib.dll
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\AxInterop.WMPLib.dll
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.csproj.ResolveComReference.cache
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.Form1.resources
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.Properties.Resources.resources
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.csproj.GenerateResource.Cache
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.exe
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.pdb
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.Form2.resources
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_WCF\MusicPlayer_WCF\obj\Debug\MusicPlayer_WCF.csprojResolveAssemblyReference.cache
